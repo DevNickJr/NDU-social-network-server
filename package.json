@@ -1,0 +1,21 @@
+{
+  "name": "social-network-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nicholasjr/NDU-social-network-server.git",
+  "author": "Nicholasjr <nicholasduadei14@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.7",
+    "morgan": "^1.10.0",
+    "winston": "^3.8.2"
+  }
+}
