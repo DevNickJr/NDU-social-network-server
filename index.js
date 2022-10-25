@@ -7,12 +7,14 @@ const routes = require('./routes')
 const mongoose = require('mongoose')
 
 
-const main = async() => {
-    await mongoose.connect(process.env.MONGO_URI) 
+const main = (async() => {
+    await mongoose.connect(process.env.MONGO_URI, {
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+    }) 
     console.log('connected to mongodb')
     app.listen(PORT, () => console.log(`Server Listening on port http://localhost:${PORT}`))
-}
-main()
+})();
 
 // pre route middlewwares
 require('./middlewares/pre-route-middleware')(app)
