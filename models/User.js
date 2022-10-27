@@ -42,7 +42,7 @@ UserSchema.statics.signup = async function({userName, email, password}) {
     user = await this.findOne({ email: email }).exec();
     if (user) throw new CustomError('Email Already exists', 403);
     
-    const hash = await bcrypt.hash(password, 10)
+    const hash = await bcrypt.hash(password, Number(process.env.SALT))
     
     const newUser = await this.create({userName, email, password: hash});
     

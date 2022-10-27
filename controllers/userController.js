@@ -8,10 +8,9 @@ class UserController {
     // }
     async getAllUsers(req, res) {
         try {
-            logger.log('silly', 'Getting all users')
-            const response = UserService.getAll();
+            logger.log('info', 'Getting all users')
+            const response = await UserService.getAll();
             if (!response) return res.status(404).json({'message': 'No user found'})
-
             res.status(200).json(response)
         } catch (error) {
             const status = error.status || 500
@@ -24,8 +23,9 @@ class UserController {
         const id = req.params.id || '';
         if (!id) return res.status(400).json({message: 'Id required'})
 
+        logger.log('info', `Getting user ${id}`)
         try {
-            const response = UserService.getOne(id);
+            const response = await UserService.getOne(id);
             if (!response) return res.status(404).json({'message': 'User Not Found'})
 
             res.status(200).json(response)
@@ -38,10 +38,13 @@ class UserController {
     }
     async updateUser(req, res) {
         const id = req.params.id || '';
+        const data = req.body;
         if (!id) return res.status(400).json({message: 'Id required'})
+        if (!data) return res.status(400).json({message: 'request body cannot be empty'})
 
+        logger.log('info', `Updating user ${id}`)
         try {
-            const response = UserService.updateOne(id);
+            const response = await UserService.updateOne(id, data);
             if (!response) return res.status(400).json({'message': 'User Does Not Exist'})
 
             res.status(200).json(response)   
@@ -56,8 +59,9 @@ class UserController {
         const id = req.params.id || '';
         if (!id) return res.status(400).json({message: 'Id required'})
         
+        logger.log('info', `Deleting user ${id}`)
         try {
-            const response = UserService.deleteOne(id);
+            const response = await UserService.deleteOne(id);
             if (!response) return res.status(404).json({'message': 'User Does Not Exist'});
 
             res.status(200).json(response)
