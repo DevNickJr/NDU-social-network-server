@@ -1,25 +1,35 @@
 {
-  "name": "social-network-server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Nicholasjr/NDU-social-network-server.git",
-  "author": "Nicholasjr <nicholasduadei14@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "dev": "nodemon index.js"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  },
-  "dependencies": {
-    "bcrypt": "^5.1.0",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "helmet": "^6.0.0",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.6.7",
-    "morgan": "^1.10.0",
-    "validator": "^13.7.0",
-    "winston": "^3.8.2"
-  }
+    "name": "social-network-server",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "repository": "https://github.com/Nicholasjr/NDU-social-network-server.git",
+    "author": "Nicholasjr <nicholasduadei14@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "format:check": "prettier --check .",
+        "format:write": "prettier --write .",
+        "lint:check": "eslint .",
+        "lint:fix": "eslint --fix .",
+        "start": "node --trace-deprecation src/app",
+        "dev": "nodemon src/index.js"
+    },
+    "devDependencies": {
+        "eslint": "^7.32.0 || ^8.2.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-import": "^2.25.2",
+        "nodemon": "^2.0.20",
+        "prettier": "^2.7.1"
+    },
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "helmet": "^6.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.6.7",
+        "morgan": "^1.10.0",
+        "validator": "^13.7.0",
+        "winston": "^3.8.2"
+    }
 }

@@ -1,0 +1,113 @@
+2022-10-24T13:28:33.729Z - [31merror[39m - 	Expected a string but received a number
+2022-10-24T13:30:08.612Z - [31merror[39m - 	Password Not Strong Enough, must be minimum of 8 characters, with at least 1 uppercase, lowercase, number and symbol
+2022-10-24T13:31:52.585Z - [31merror[39m - 	message: Password Not Strong Enough, must be minimum of 8 characters, with at least 1 uppercase, lowercase, number and symbol, status: 400
+2022-10-24T13:34:09.069Z - [31merror[39m - 	status: 400 ,message: Password Not Strong Enough, must be minimum of 8 characters, with at least 1 uppercase, lowercase, number and symbol
+2022-10-24T13:34:28.269Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T13:35:15.008Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T17:43:07.380Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T17:44:45.732Z - [31merror[39m - 	status: 500 ,message: Operation `users.findOne()` buffering timed out after 10000ms
+2022-10-24T17:45:07.735Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T17:45:34.889Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T17:47:01.676Z - [31merror[39m - 	status: 500 ,message: User.findOne({ userName: 'Nick' })
+2022-10-24T18:01:45.113Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T18:02:39.373Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T18:03:51.962Z - [31merror[39m - 	status: 403 ,message: Email Already exists
+2022-10-24T18:05:21.033Z - [31merror[39m - 	status: 403 ,message: Email Already exists
+2022-10-24T18:06:24.450Z - [31merror[39m - 	status: 403 ,message: Email Already exists
+2022-10-24T18:07:27.861Z - [31merror[39m - 	status: 500 ,message: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue
+2022-10-24T18:10:38.716Z - [31merror[39m - 	status: 500 ,message: rounds must be a number
+2022-10-24T18:11:06.575Z - [31merror[39m - 	status: 500 ,message: rounds must be a number
+2022-10-24T18:14:40.752Z - [31merror[39m - 	status: 500 ,message: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue
+2022-10-24T18:15:03.362Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading '_id')
+2022-10-24T18:16:09.445Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T18:16:16.483Z - [31merror[39m - 	status: 403 ,message: Email Already exists
+2022-10-24T18:16:22.812Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'id')
+2022-10-24T18:16:52.795Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T18:17:00.802Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'id')
+2022-10-24T18:18:33.553Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T18:18:41.228Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'id')
+2022-10-24T18:21:50.186Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of null (reading 'role')
+2022-10-24T18:23:12.187Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of null (reading 'role')
+2022-10-24T18:24:08.632Z - [32minfo[39m - 	user created successfully
+2022-10-24T18:26:46.110Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T18:28:18.850Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2022-10-24T18:30:10.509Z - [31merror[39m - 	status: 500 ,message: reponse is not defined
+2022-10-24T18:31:44.035Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:31:52.627Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:34:21.423Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:34:26.158Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:35:07.357Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:36:09.063Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:41:32.118Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:41:46.714Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:42:14.204Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:43:15.495Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:43:40.330Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:48:29.617Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:51:51.344Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:52:38.614Z - [31merror[39m - 	status: 404 ,message: User does not exists
+2022-10-24T18:54:16.263Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:54:16.471Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T18:55:50.881Z - [31merror[39m - 	status: 500 ,message: connect ETIMEDOUT 13.38.170.57:27017
+2022-10-24T18:56:04.798Z - [31merror[39m - 	status: 404 ,message: User does not exists
+2022-10-24T18:56:30.987Z - [31merror[39m - 	status: 500 ,message: connect ETIMEDOUT 13.38.170.57:27017
+2022-10-24T18:59:27.450Z - [31merror[39m - 	status: 404 ,message: User does not exists
+2022-10-24T19:01:29.413Z - [31merror[39m - 	status: 404 ,message: User does not exists
+2022-10-24T19:03:17.423Z - [31merror[39m - 	status: 400 ,message: Password Not Strong Enough, must be minimum of 8 characters, with at least 1 uppercase, lowercase, number and symbol
+2022-10-24T19:03:33.745Z - [32minfo[39m - 	user created successfully
+2022-10-24T19:03:43.618Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T19:05:02.142Z - [32minfo[39m - 	user undefined logged in successfully
+2022-10-24T19:06:07.359Z - [32minfo[39m - 	user 6356e185c68b424fb7e40930 logged in successfully
+2022-10-25T14:50:18.560Z - [32minfo[39m - 	Getting all users
+2022-10-25T15:02:12.675Z - [32minfo[39m - 	Getting user 6356d627e0c7a8b8a491517
+2022-10-25T15:02:12.688Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "6356d627e0c7a8b8a491517" (type string) at path "_id" for model "User"
+2022-10-25T15:02:27.726Z - [32minfo[39m - 	Getting user 6356d627e0c7a8b8a4915178
+2022-10-25T15:02:27.986Z - [31merror[39m - 	status: 400 ,message: User does not exist
+2022-10-25T15:02:41.472Z - [32minfo[39m - 	Getting user 6356d627e0c7a8b8a491517f
+2022-10-25T15:03:24.121Z - [32minfo[39m - 	Updating user 6356d627e0c7a8b8a491517f
+2022-10-25T15:04:05.375Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:04:45.680Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:08:33.475Z - [32minfo[39m - 	Getting all users
+2022-10-25T15:09:06.981Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c2
+2022-10-25T15:09:07.227Z - [31merror[39m - 	status: 400 ,message: User does not exist
+2022-10-25T15:09:12.493Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:12:30.426Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:13:30.625Z - [32minfo[39m - 	Getting all users
+2022-10-25T15:13:37.283Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:14:07.797Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:15:13.600Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:15:13.608Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "1212" (type string) at path "_id" because of "BSONTypeError"
+2022-10-25T15:15:31.419Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:15:31.661Z - [31merror[39m - 	status: 500 ,message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+2022-10-25T15:18:29.058Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:19:15.862Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:39:39.283Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:39:51.299Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:57:58.331Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:57:58.374Z - [31merror[39m - 	status: 500 ,message: Cast to string failed for value "Promise { <pending> }" (type Promise) at path "password"
+2022-10-25T15:58:31.044Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:58:50.649Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:59:12.996Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:59:16.994Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:59:22.703Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T15:59:38.247Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:00:59.144Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:00:59.150Z - [31merror[39m - 	status: 500 ,message: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue
+2022-10-25T16:02:00.746Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:02:00.752Z - [31merror[39m - 	status: 500 ,message: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue
+2022-10-25T16:03:44.667Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:30:55.788Z - [32minfo[39m - 	Deleting user 6356d6768dfb279e01d604c4
+2022-10-25T16:31:05.270Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:31:06.053Z - [31merror[39m - 	status: 500 ,message: CustomError is not defined
+2022-10-25T16:31:32.421Z - [32minfo[39m - 	Getting all users
+2022-10-25T16:31:41.029Z - [32minfo[39m - 	Getting user 6356d627e0c7a8b8a491517f
+2022-10-25T16:31:49.213Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:31:50.026Z - [31merror[39m - 	status: 500 ,message: CustomError is not defined
+2022-10-25T16:34:34.621Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:34:34.998Z - [31merror[39m - 	status: 500 ,message: CustomError is not defined
+2022-10-25T16:35:47.588Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:35:47.916Z - [31merror[39m - 	status: 500 ,message: CustomError is not defined
+2022-10-25T16:37:22.679Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:37:23.198Z - [31merror[39m - 	status: 500 ,message: CustomError is not defined
+2022-10-25T16:38:27.994Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
+2022-10-25T16:38:28.429Z - [31merror[39m - 	status: 400 ,message: User does not exist
