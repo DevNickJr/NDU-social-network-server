@@ -10,7 +10,7 @@ const myformat = format.combine(
 const logger = createLogger({
     transports: [
         new transports.File({
-            filename: 'logs/error.log',
+            filename: 'src/logs/error.log',
             format: myformat,
         }),
         new transports.Console({

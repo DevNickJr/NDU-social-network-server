@@ -15,7 +15,7 @@ const main = async () => {
     logger.log('connected to mongodb')
     app.listen(PORT, () => logger.log(`Server Listening on port http://localhost:${PORT}`))
 }
-main();
+main()
 
 // pre route middlewwares
 require('./middlewares/pre-route-middleware')(app)

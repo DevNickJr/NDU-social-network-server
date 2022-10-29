@@ -5,21 +5,18 @@ class UserController {
     // static async createUser() {
 
     // }
-    static async getAllUsers(req, res) {
+    static async getAllUsers(req, res, next) {
         try {
             logger.log('info', 'Getting all users')
             const response = await UserService.getAll()
             if (!response) return res.status(404).json({ message: 'No user found' })
             return res.status(200).json(response)
         } catch (error) {
-            const status = error.status || 500
-            const message = error.message || error
-            logger.log('error', `status: ${status} ,message: ${message}`)
-            return res.status(status).json({ message })
+            return next(error)
         }
     }
 
-    static async getUser(req, res) {
+    static async getUser(req, res, next) {
         const id = req.params.id || ''
         if (!id) return res.status(400).json({ message: 'Id required' })
 
@@ -30,14 +27,11 @@ class UserController {
 
             return res.status(200).json(response)
         } catch (error) {
-            const status = error.status || 500
-            const message = error.message || error
-            logger.log('error', `status: ${status} ,message: ${message}`)
-            return res.status(status).json({ message })
+            return next(error)
         }
     }
 
-    static async updateUser(req, res) {
+    static async updateUser(req, res, next) {
         const id = req.params.id || ''
         const data = req.body
         if (!id) return res.status(400).json({ message: 'Id required' })
@@ -51,14 +45,11 @@ class UserController {
 
             return res.status(200).json(response)
         } catch (error) {
-            const status = error.status || 500
-            const message = error.message || error
-            logger.log('error', `status: ${status} ,message: ${message}`)
-            return res.status(status).json({ message })
+            return next(error)
         }
     }
 
-    static async deleteUser(req, res) {
+    static async deleteUser(req, res, next) {
         const id = req.params.id || ''
         if (!id) return res.status(400).json({ message: 'Id required' })
 
@@ -69,12 +60,9 @@ class UserController {
 
             return res.status(200).json(response)
         } catch (error) {
-            const status = error.status || 500
-            const message = error.message || error
-            logger.log('error', `status: ${status} ,message: ${message}`)
-            return res.status(status).json({ message })
+            return next(error)
         }
     }
 }
 
-module.exports = new UserController()
+module.exports = UserController
