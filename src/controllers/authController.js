@@ -2,7 +2,7 @@ const AuthService = require('../sevices/authService')
 const logger = require('../utils/logger')
 
 class AuthController {
-    static async signup(req, res) {
+    static async signup(req, res, next) {
         const userName = req.body.userName || ''
         const email = req.body.email || ''
         const password = req.body.password || ''
@@ -19,14 +19,11 @@ class AuthController {
             logger.log('info', 'user created successfully')
             return res.status(201).json(response)
         } catch (error) {
-            const status = error.status || 500
-            const message = error?.message ? error.message : error
-            logger.log('error', `status: ${status} ,message: ${message}`)
-            return res.status(status).json({ message })
+            return next(error)
         }
     }
 
-    static async signin(req, res) {
+    static async signin(req, res, next) {
         const userName = req.body.userName || ''
         const email = req.body.email || ''
         const password = req.body.password || ''
@@ -42,12 +39,9 @@ class AuthController {
             logger.log('info', `user ${response.id} logged in successfully`)
             return res.status(200).json(response)
         } catch (error) {
-            const status = error.status || 500
-            const message = error?.message ? error.message : error
-            logger.log('error', `status: ${status} ,message: ${message}`)
-            return res.status(status).json({ message })
+            return next(error)
         }
     }
 }
 
-module.exports = new AuthController()
+module.exports = AuthController

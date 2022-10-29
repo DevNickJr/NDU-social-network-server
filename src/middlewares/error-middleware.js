@@ -7,8 +7,10 @@ module.exports = (app) => {
     })
 
     // custom error handler && this will replace default express error response for security reasons
-    app.use((err, req, res) => {
-        logger.error(err.stack)
-        res.status(500).send('Something went wrong!')
+    app.use((err, req, res, next) => {
+        const status = err.status || 500
+        const message = err.message || err
+        logger.log('error', `status: ${status} ,message: ${message}`)
+        return res.status(status).json({ message })
     })
 }
