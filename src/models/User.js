@@ -6,7 +6,7 @@ const createToken = require('../utils/createToken')
 
 const { Schema } = mongoose
 
-// const { SALT } = process.env 
+// const { SALT } = process.env
 
 const UserSchema = Schema(
     {
@@ -29,6 +29,12 @@ const UserSchema = Schema(
             type: String,
             enum: ['USER', 'ADMIN'],
             default: 'USER',
+        },
+        followers: {
+            type : [mongoose.ObjectId]
+        },
+        followings: {
+            type : [mongoose.ObjectId]
         },
     },
     { timestamps: true }
@@ -59,9 +65,7 @@ UserSchema.statics.signup = async function signup({ userName, email, password })
 }
 
 UserSchema.statics.signin = async function signin({ userName, email, password }) {
-    const user = email
-        ? await this.findOne({ email }).lean()
-        : await this.findOne({ userName }).lean()
+    const user = email ? await this.findOne({ email }).lean() : await this.findOne({ userName }).lean()
 
     if (!user) throw new CustomError('User does not exists', 404)
 

@@ -22,7 +22,7 @@ class CRUD {
         if (!data) throw new CustomError(`${this.serviceName} does not exist`)
         return data
     }
-    
+
     async deleteOne(_id) {
         const data = await this.Model.findByIdAndDelete(_id)
         if (!data) throw new CustomError(`${this.serviceName} does not exist`)
