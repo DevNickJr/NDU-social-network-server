@@ -19,7 +19,7 @@ class CommentController {
         }
     }
 
-    static async getAllComments(req, res, next) {
+    static async getComments(req, res, next) {
         const postId = req.params.id;
         if (!postId) return res.status(400).json({ message: 'Id required' })
         try {
