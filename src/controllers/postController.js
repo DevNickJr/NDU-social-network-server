@@ -11,7 +11,7 @@ class PostController {
 
         try {
             logger.log('info', `User ${userId} making a new post`)
-            const response = await PostController.create({ userId, title, body, img })
+            const response = await PostService.create({ userId, title, body, img })
             if (!response) throw new CustomError("Post Failed")
             return res.status(200).json(response)
         } catch (error) {
