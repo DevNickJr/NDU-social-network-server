@@ -6,6 +6,11 @@ class CRUD {
         this.serviceName = serviceName
     }
 
+    async create(fields) {
+        const data = await this.Model.create(fields)
+        return data
+    }
+
     async getAll() {
         const data = await this.Model.find().lean()
         return data

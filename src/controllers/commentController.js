@@ -4,14 +4,14 @@ const { CustomError } = require('../utils');
 
 class CommentController {
     static async create(req, res, next) {
-        const postId = req.user._id;
-        const { title, body, img } = req.body
+        const postId = req.params.id;
+        const { body } = req.body
 
-        if (!title || !body) return res.status(400).json({ message: "Fill all required fields [title, body]" })
+        if (!body) return res.status(400).json({ message: "Fill all required fields [body]" })
 
         try {
-            logger.log('info', `User ${postId} making a new Comment`)
-            const response = await CommentController.create({ postId, title, body, img })
+            logger.log('info', `post ${postId}, new Comment`)
+            const response = await CommentController.create({ postId, body })
             if (!response) throw new CustomError("Comment Failed")
             return res.status(200).json(response)
         } catch (error) {
@@ -20,9 +20,11 @@ class CommentController {
     }
 
     static async getAllComments(req, res, next) {
+        const postId = req.params.id;
+        if (!postId) return res.status(400).json({ message: 'Id required' })
         try {
-            logger.log('info', `User ${req.user._id} Getting all Comments`)
-            const response = await CommentService.getAll()
+            logger.log('info', `post ${postId}, Getting all Comments`)
+            const response = await CommentService.getAll(postId)
             if (!response) throw new CustomError('No Comment found', 404)
             return res.status(200).json(response)
         } catch (error) {
@@ -30,21 +32,19 @@ class CommentController {
         }
     }
 
-    static async getComments(req, res, next) {
-        try {
-            logger.log('info', `User ${req.user._id} Getting all his/her Comments`)
-            const response = await CommentService.getAllUserComments(req.user._id)
-            if (!response) throw new CustomError('No Comment found', 404)
-            return res.status(200).json(response)
-        } catch (error) {
-            return next(error)
-        }
-    }
+    // static async getComments(req, res, next) {
+    //     try {
+    //         logger.log('info', `post ${req.post._id} Getting all his/her Comments`)
+    //         const response = await CommentService.getAllpostComments(req.post._id)
+    //         if (!response) throw new CustomError('No Comment found', 404)
+    //         return res.status(200).json(response)
+    //     } catch (error) {
+    //         return next(error)
+    //     }
+    // }
 
     static async getComment(req, res, next) {
         const id = req.params.id || ''
-        if (!id) return res.status(400).json({ message: 'Id required' })
-
         logger.log('info', `Getting Comment ${id}`)
         try {
             const response = await CommentService.getOne(id)
@@ -59,11 +59,9 @@ class CommentController {
     static async updateComment(req, res, next) {
         const id = req.params.id || ''
         const data = req.body
-        if (!id) return res.status(400).json({ message: 'Id required' })
         if (!data) return res.status(400).json({ message: 'request body cannot be empty' })
 
         logger.log('info', `Updating Comment ${id}`)
-
         try {
             const response = await CommentService.updateOne(id, data)
             if (!response) throw new CustomError('Comment Update Failed', 400)
@@ -76,7 +74,6 @@ class CommentController {
 
     static async deleteComment(req, res, next) {
         const id = req.params.id || ''
-        if (!id) return res.status(400).json({ message: 'Id required' })
 
         logger.log('info', `Deleting Comment ${id}`)
         try {
