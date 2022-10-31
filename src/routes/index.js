@@ -8,6 +8,6 @@ const commentRoutes = require('./comment')
 router.use('/auth', authRoutes)
 router.use('/users', userRoutes)
 router.use('/posts', postRoutes)
-router.use('/posts/:id/comments', commentRoutes)
+router.use('/posts/:postId/comments', commentRoutes)
 
 module.exports = router

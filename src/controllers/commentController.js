@@ -4,7 +4,7 @@ const { CustomError } = require('../utils');
 
 class CommentController {
     static async create(req, res, next) {
-        const postId = req.params.id;
+        const { postId } = req.params;
         const { body } = req.body
 
         if (!body) return res.status(400).json({ message: "Fill all required fields [body]" })
@@ -20,7 +20,7 @@ class CommentController {
     }
 
     static async getComments(req, res, next) {
-        const postId = req.params.id;
+        const { postId } = req.params;
         if (!postId) return res.status(400).json({ message: 'Id required' })
         try {
             logger.log('info', `post ${postId}, Getting all Comments`)

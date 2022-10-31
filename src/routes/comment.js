@@ -3,9 +3,9 @@ const CommentController = require('../controllers/commentController')
 
 const router = Router()
 
-router.post('/:id', CommentController.create)
+router.post('/', CommentController.create)
 
-router.get('/:id', CommentController.getComments)
+router.get('/', CommentController.getComments)
 
 router.get('/:id', CommentController.getComment)
 
