@@ -1,18 +1,18 @@
 const logger = require('../utils/logger')
-const PostService = require('../sevices/postService');
-const { CustomError } = require('../utils');
+const PostService = require('../sevices/postService')
+const { CustomError } = require('../utils')
 
 class PostController {
     static async create(req, res, next) {
-        const userId = req.user._id;
+        const userId = req.user._id
         const { title, body, img } = req.body
 
-        if (!title || !body) return res.status(400).json({ message: "Fill all required fields [title, body]" })
+        if (!title || !body) return res.status(400).json({ message: 'Fill all required fields [title, body]' })
 
         try {
             logger.log('info', `User ${userId} making a new post`)
             const response = await PostService.create({ userId, title, body, img })
-            if (!response) throw new CustomError("Post Failed")
+            if (!response) throw new CustomError('Post Failed')
             return res.status(200).json(response)
         } catch (error) {
             return next(error)

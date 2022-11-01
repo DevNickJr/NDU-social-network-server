@@ -31,15 +31,16 @@ const UserSchema = Schema(
             default: 'USER',
         },
         followers: {
-            type : [mongoose.ObjectId]
+            type: [mongoose.ObjectId],
         },
         followings: {
-            type : [mongoose.ObjectId]
+            type: [mongoose.ObjectId],
         },
     },
     { timestamps: true }
 )
 
+// using function syntax in order to have access to this
 UserSchema.statics.signup = async function signup({ userName, email, password }) {
     if (!validator.isEmail(email)) throw new CustomError('Email Not Valid', 400)
 

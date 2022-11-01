@@ -1,18 +1,18 @@
 const logger = require('../utils/logger')
-const CommentService = require('../sevices/commentService');
-const { CustomError } = require('../utils');
+const CommentService = require('../sevices/commentService')
+const { CustomError } = require('../utils')
 
 class CommentController {
     static async create(req, res, next) {
-        const { postId } = req.params;
+        const { postId } = req.params
         const { body } = req.body
 
-        if (!body) return res.status(400).json({ message: "Fill all required fields [body]" })
+        if (!body) return res.status(400).json({ message: 'Fill all required fields [body]' })
 
         try {
             logger.log('info', `post ${postId}, new Comment`)
             const response = await CommentController.create({ postId, body })
-            if (!response) throw new CustomError("Comment Failed")
+            if (!response) throw new CustomError('Comment Failed')
             return res.status(200).json(response)
         } catch (error) {
             return next(error)
@@ -20,7 +20,7 @@ class CommentController {
     }
 
     static async getComments(req, res, next) {
-        const { postId } = req.params;
+        const { postId } = req.params
         if (!postId) return res.status(400).json({ message: 'Id required' })
         try {
             logger.log('info', `post ${postId}, Getting all Comments`)
