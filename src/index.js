@@ -12,8 +12,8 @@ const main = async () => {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     })
-    logger.log('connected to mongodb')
-    app.listen(PORT, () => logger.log(`Server Listening on port http://localhost:${PORT}`))
+    logger.log('info', 'connected to mongodb')
+    app.listen(PORT, () => logger.log('info', `Server Listening on port http://localhost:${PORT}`))
 }
 main()
 
