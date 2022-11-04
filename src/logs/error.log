@@ -111,3 +111,6 @@
 2022-10-25T16:37:23.198Z - [31merror[39m - 	status: 500 ,message: CustomError is not defined
 2022-10-25T16:38:27.994Z - [32minfo[39m - 	Updating user 6356d6768dfb279e01d604c4
 2022-10-25T16:38:28.429Z - [31merror[39m - 	status: 400 ,message: User does not exist
+2022-11-04T18:26:33.386Z - [32minfo[39m - 	connected to mongodb
+2022-11-04T18:26:56.534Z - [32minfo[39m - 	connected to mongodb
+2022-11-04T18:26:56.537Z - [32minfo[39m - 	Server Listening on port http://localhost:5000
