@@ -4,7 +4,7 @@ const { Schema } = mongoose
 
 const ConversationSchema = Schema(
     {
-        ids: {
+        members: {
             type: [mongoose.ObjectId],
             required: true,
         },
