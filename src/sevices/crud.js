@@ -11,9 +11,33 @@ class CRUD {
         return data
     }
 
-    async getAll() {
-        const data = await this.Model.find().lean()
-        return data
+    async getAll({limit, sort, page}, query={}, populate='') {
+        // TODO: change pagination to cursor based
+        const lmt = limit > 0 && limit <50 ? Number(limit) : 20
+        const srt = sort || { createdAt: -1 }
+        const pge = page || 1
+        const skp = Number(pge * lmt -  lmt) || 0
+        const data = Promise.all([
+            this.Model.find(query).sort(srt).skip(skp).limit(lmt).lean().populate(populate),
+            this.Model.find(query).countDocuments()
+        ])
+
+    if (pge * lmt < data[1]) {
+        return {
+          page: pge,
+          next: pge + 1,
+          limit: lmt,
+          data: data[0],
+          total: data[1],
+        };
+      }
+      return {
+        page: pge,
+        next: null,
+        limit: lmt,
+        data: data[0],
+        total: data[1],
+      };
     }
 
     async getOne(_id) {
