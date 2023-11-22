@@ -11,13 +11,15 @@ class CRUD {
         return data
     }
 
-    async getAll({limit, sort, page}, query={}, populate='') {
+    async getAll({limit=10, sort="createdAt", page=1} = {}, query={}, populate='') {
         // TODO: change pagination to cursor based
+        console.log('herrr')
+        console.log({limit, sort, page})
         const lmt = limit > 0 && limit <50 ? Number(limit) : 20
         const srt = sort || { createdAt: -1 }
         const pge = page || 1
         const skp = Number(pge * lmt -  lmt) || 0
-        const data = Promise.all([
+        const data = await Promise.all([
             this.Model.find(query).sort(srt).skip(skp).limit(lmt).lean().populate(populate),
             this.Model.find(query).countDocuments()
         ])
