@@ -114,3 +114,972 @@
 2022-11-04T18:26:33.386Z - [32minfo[39m - 	connected to mongodb
 2022-11-04T18:26:56.534Z - [32minfo[39m - 	connected to mongodb
 2022-11-04T18:26:56.537Z - [32minfo[39m - 	Server Listening on port http://localhost:5000
+2023-10-30T22:53:01.510Z - [32minfo[39m - 	connected to mongodb
+2023-10-30T22:53:01.519Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-10-30T22:53:31.390Z - [32minfo[39m - 	connected to mongodb
+2023-10-30T22:53:31.394Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T16:37:29.660Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T16:37:29.669Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T18:08:49.273Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T18:08:49.276Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T18:11:22.241Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T18:11:22.245Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T19:34:17.004Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T19:34:17.009Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T19:35:51.699Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T19:35:51.702Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T19:35:56.356Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T19:35:56.359Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:07:17.281Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:07:17.287Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:07:52.747Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:07:52.750Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:11:37.094Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:11:37.098Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:11:59.432Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:11:59.437Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:13:04.711Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:13:04.714Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:14:40.904Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:14:40.906Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:50:40.258Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:50:40.261Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:52:40.004Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:52:40.015Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:53:11.993Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:53:25.094Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:53:25.098Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:55:26.829Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T20:55:26.833Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T20:55:33.218Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:55:33.225Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:56:33.005Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T20:56:33.011Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:02:32.219Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:02:32.247Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:02:55.941Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:02:55.947Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:03:06.277Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:03:06.310Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:03:30.665Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:03:30.670Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:03:35.038Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:03:35.069Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:03:50.509Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:03:50.512Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:03:56.581Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:03:56.601Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:09:23.412Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:09:23.417Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:09:54.887Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:09:54.907Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:09:59.580Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:09:59.588Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:10:30.425Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:10:43.515Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:10:43.518Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:11:32.655Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:11:32.657Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:11:35.912Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:11:39.841Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:11:39.849Z - [31merror[39m - 	status: 500 ,message: Cannot create property 'Symbol(level)' on string 'connection is live'
+2023-11-16T21:12:40.825Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:12:40.830Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:12:58.287Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:12:58.294Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:13:59.029Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:13:59.034Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:14:13.893Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:14:13.897Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:19:02.271Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:19:02.274Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:22:21.448Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:22:21.452Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:24:26.576Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:24:26.583Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:25:19.808Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:25:19.814Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:25:29.791Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:25:29.795Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:25:39.257Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:25:39.261Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:29:41.831Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:29:41.834Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:32:43.715Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:32:43.718Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:40:07.285Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:40:07.288Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:40:31.065Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:40:31.069Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:40:47.373Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:40:47.376Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:41:20.242Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:41:20.246Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T21:47:08.254Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T21:47:08.258Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:23:29.369Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:23:29.372Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:24:17.436Z - [31merror[39m - 	status: 500 ,message: Not allowed by CORS
+2023-11-16T23:24:17.560Z - [31merror[39m - 	status: 500 ,message: Not allowed by CORS
+2023-11-16T23:24:28.036Z - [31merror[39m - 	status: 500 ,message: Not allowed by CORS
+2023-11-16T23:24:28.080Z - [31merror[39m - 	status: 500 ,message: Not allowed by CORS
+2023-11-16T23:26:46.898Z - [31merror[39m - 	status: 500 ,message: AuthService.signup is not a function
+2023-11-16T23:27:34.812Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:27:34.816Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:27:42.563Z - [31merror[39m - 	status: 500 ,message: AuthService.signup is not a function
+2023-11-16T23:30:15.943Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:30:15.946Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:30:35.367Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:30:35.369Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:30:58.649Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:30:58.651Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:31:20.260Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:31:20.264Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:31:27.684Z - [31merror[39m - 	status: 400 ,message: Password Not Strong Enough, must be minimum of 8 characters, with at least 1 uppercase, lowercase, number and symbol
+2023-11-16T23:31:43.600Z - [31merror[39m - 	status: 400 ,message: Password Not Strong Enough, must be minimum of 8 characters, with at least 1 uppercase, lowercase, number and symbol
+2023-11-16T23:32:22.678Z - [31merror[39m - 	status: 400 ,message: Password Not Strong Enough, must be minimum of 8 characters, with at least 1 uppercase, lowercase, number and symbol
+2023-11-16T23:32:26.806Z - [31merror[39m - 	status: 500 ,message: secretOrPrivateKey must have a value
+2023-11-16T23:35:03.194Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:35:03.197Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:35:11.946Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2023-11-16T23:35:29.768Z - [31merror[39m - 	status: 500 ,message: secretOrPrivateKey must have a value
+2023-11-16T23:36:07.509Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:36:07.513Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:36:25.611Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:36:25.614Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:36:30.689Z - [31merror[39m - 	status: 500 ,message: secretOrPrivateKey must have a value
+2023-11-16T23:38:59.557Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2023-11-16T23:39:04.615Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2023-11-16T23:39:13.357Z - [31merror[39m - 	status: 500 ,message: secretOrPrivateKey must have a value
+2023-11-16T23:39:27.027Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:39:27.031Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:39:40.089Z - [31merror[39m - 	status: 500 ,message: secretOrPrivateKey must have a value
+2023-11-16T23:40:31.373Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:40:31.376Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:40:36.009Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2023-11-16T23:40:40.799Z - [31merror[39m - 	status: 403 ,message: Email Already exists
+2023-11-16T23:40:48.668Z - [31merror[39m - 	status: 500 ,message: secretOrPrivateKey must have a value
+2023-11-16T23:41:09.845Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:41:09.848Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:41:11.280Z - [31merror[39m - 	status: 500 ,message: secretOrPrivateKey must have a value
+2023-11-16T23:41:47.292Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:41:47.294Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:41:49.773Z - [31merror[39m - 	status: 403 ,message: userName Already exists
+2023-11-16T23:42:10.179Z - [32minfo[39m - 	user created successfully
+2023-11-16T23:42:31.142Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:42:31.145Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:42:45.375Z - [32minfo[39m - 	connected to mongodb
+2023-11-16T23:42:45.380Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-16T23:44:48.367Z - [31merror[39m - 	status: 400 ,message: Username or Password Incorrect
+2023-11-16T23:45:28.294Z - [32minfo[39m - 	user created successfully
+2023-11-16T23:45:38.867Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-16T23:48:29.299Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:04:23.361Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:09:09.309Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:11:19.758Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:11:47.665Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:12:28.101Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:12:44.684Z - [32minfo[39m - 	connected to mongodb
+2023-11-17T00:12:44.687Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-17T00:13:13.531Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:14:05.353Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:14:34.621Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:26:51.424Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-17T00:27:09.283Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-21T11:22:25.553Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T11:22:25.563Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T11:26:14.307Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-21T11:26:14.684Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-21T11:28:49.019Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T11:28:49.027Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T11:38:31.367Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T11:38:31.375Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T11:39:00.461Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T11:39:00.469Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T11:39:07.214Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T11:39:07.223Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T11:45:50.615Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T11:45:50.620Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:07:39.965Z - [31merror[39m - 	status: 500 ,message: Not allowed by CORS
+2023-11-21T12:08:59.198Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:08:59.204Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:10:12.210Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:10:12.216Z - [31merror[39m - 	status: 500 ,message: Cannot destructure property 'limit' of 'undefined' as it is undefined.
+2023-11-21T12:11:05.900Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:11:05.906Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:11:09.346Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:11:09.350Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'limit')
+2023-11-21T12:12:28.588Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:12:28.593Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:12:33.611Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:12:33.613Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'limit')
+2023-11-21T12:13:48.937Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:13:48.945Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:14:03.978Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:14:03.984Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:14:04.753Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:14:04.755Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'limit')
+2023-11-21T12:14:09.899Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:14:09.901Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'limit')
+2023-11-21T12:14:59.992Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:14:59.997Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:15:00.809Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:15:00.810Z - [31merror[39m - 	status: 500 ,message: query is not defined
+2023-11-21T12:15:58.222Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:15:58.230Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:16:00.049Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:16:00.061Z - [31merror[39m - 	status: 500 ,message: Invalid sort() argument. Must be a string, object, or array.
+2023-11-21T12:16:16.268Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:16:16.274Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:16:20.865Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:17:18.561Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:17:18.564Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:19:24.302Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:19:24.308Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:23:01.278Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:23:01.282Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:23:30.688Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:23:30.694Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:23:36.604Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:23:50.394Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:23:50.402Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:23:53.049Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:24:02.173Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:24:02.181Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:24:02.710Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:24:13.383Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:24:13.391Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:24:14.336Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:24:30.262Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:24:30.271Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:24:31.839Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:24:44.608Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:24:44.615Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:24:45.415Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:24:45.421Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'limit')
+2023-11-21T12:24:53.515Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:24:53.522Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:24:54.198Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:25:18.803Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:25:18.808Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:25:21.622Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:27:06.368Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:27:06.377Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:27:07.588Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:27:07.593Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'limit')
+2023-11-21T12:27:26.803Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:27:26.808Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:27:30.680Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:30:45.556Z - [32minfo[39m - 	user created successfully
+2023-11-21T12:31:11.048Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:33:44.306Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:33:44.311Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:33:51.514Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:34:32.552Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:34:32.557Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:36:52.079Z - [32minfo[39m - 	user created successfully
+2023-11-21T12:37:03.922Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:40:01.528Z - [32minfo[39m - 	Getting user 655ca463b0db0a78f1b2f34d
+2023-11-21T12:40:27.864Z - [32minfo[39m - 	Getting user 655ca463b0db0a78f1b2f34d
+2023-11-21T12:40:32.574Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:41:33.685Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:41:33.691Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:41:33.833Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:42:00.074Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:42:00.080Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:42:02.064Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:43:14.766Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:44:01.941Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:44:01.945Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:44:54.067Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:44:54.075Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:45:30.714Z - [32minfo[39m - 	Getting all users
+2023-11-21T12:45:45.054Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:45:45.059Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:46:13.040Z - [32minfo[39m - 	Getting user find
+2023-11-21T12:46:13.052Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "find" (type string) at path "_id" for model "User"
+2023-11-21T12:46:43.015Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:46:43.019Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:47:17.666Z - [32minfo[39m - 	Getting user find
+2023-11-21T12:47:17.677Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "find" (type string) at path "_id" for model "User"
+2023-11-21T12:48:22.247Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:48:22.254Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:48:23.197Z - [32minfo[39m - 	Getting user find
+2023-11-21T12:48:23.207Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "find" (type string) at path "_id" for model "User"
+2023-11-21T12:48:34.531Z - [32minfo[39m - 	Getting user find
+2023-11-21T12:48:34.535Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "find" (type string) at path "_id" for model "User"
+2023-11-21T12:48:59.081Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:48:59.087Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:48:59.905Z - [32minfo[39m - 	Getting user find
+2023-11-21T12:48:59.918Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "find" (type string) at path "_id" for model "User"
+2023-11-21T12:49:09.774Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:49:09.783Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:49:10.406Z - [32minfo[39m - 	Getting user find
+2023-11-21T12:49:10.421Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "find" (type string) at path "_id" for model "User"
+2023-11-21T12:49:12.287Z - [32minfo[39m - 	Getting user find
+2023-11-21T12:49:12.291Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "find" (type string) at path "_id" for model "User"
+2023-11-21T12:51:24.104Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:51:24.109Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:51:50.629Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:51:50.634Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:51:54.810Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:51:54.817Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:51:56.070Z - [32minfo[39m - 	Finding users
+2023-11-21T12:52:08.524Z - [32minfo[39m - 	Finding users
+2023-11-21T12:52:28.796Z - [32minfo[39m - 	Finding users
+2023-11-21T12:53:09.075Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:53:09.083Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:53:09.386Z - [32minfo[39m - 	Finding users [object Object]
+2023-11-21T12:53:36.095Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:53:36.102Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:53:36.176Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T12:53:57.924Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:53:57.932Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:54:02.045Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T12:54:04.038Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T12:54:29.039Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:54:29.044Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:54:33.227Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T12:58:53.441Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:58:53.445Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:58:55.701Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T12:59:36.470Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T12:59:36.476Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T12:59:42.854Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:00:22.225Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:00:22.230Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:00:28.762Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:00:28.769Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:00:30.348Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:05:41.886Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:05:41.891Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:05:46.739Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:06:20.012Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:06:20.017Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:08:37.016Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:08:37.026Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:08:38.113Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:09:46.774Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:09:46.784Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:14:02.292Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:14:02.297Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:14:04.477Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:15:36.185Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:15:36.194Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:15:49.107Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:16:15.629Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:16:28.853Z - [32minfo[39m - 	Finding users undefined
+2023-11-21T13:16:34.740Z - [32minfo[39m - 	Finding users Nick
+2023-11-21T13:16:43.775Z - [32minfo[39m - 	Finding users 
+2023-11-21T13:16:51.404Z - [32minfo[39m - 	Finding users ""
+2023-11-21T13:16:57.175Z - [32minfo[39m - 	Finding users 
+2023-11-21T13:17:44.609Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:17:44.615Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:18:36.940Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:18:36.947Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:18:40.397Z - [32minfo[39m - 	Finding users undefined
+2023-11-21T13:18:54.042Z - [32minfo[39m - 	Finding users ds
+2023-11-21T13:19:19.496Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:19:19.505Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:19:44.235Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-21T13:21:24.287Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:21:24.293Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:21:24.393Z - [32minfo[39m - 	Finding users ds
+2023-11-21T13:21:24.395Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading '_id')
+2023-11-21T13:21:37.730Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:21:37.734Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:26:41.459Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:26:41.465Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:28:01.941Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:28:01.946Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:28:21.300Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:28:21.307Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:28:25.795Z - [31merror[39m - 	status: 400 ,message: Unauthorized access: You're Not Authenticated
+2023-11-21T13:28:42.240Z - [32minfo[39m - 	user 655ca463b0db0a78f1b2f34d logged in successfully
+2023-11-21T13:29:41.043Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-21T13:30:29.307Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:30:29.312Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:30:31.850Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-21T13:31:43.964Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:31:43.969Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:31:47.522Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-21T13:32:40.544Z - [32minfo[39m - 	connected to mongodb
+2023-11-21T13:32:40.549Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-21T13:32:47.088Z - [32minfo[39m - 	user 655ca463b0db0a78f1b2f34d logged in successfully
+2023-11-22T11:28:28.519Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T11:28:28.522Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T11:34:46.764Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T11:34:46.772Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T11:34:52.449Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T11:35:02.359Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T11:35:02.641Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T11:49:12.954Z - [31merror[39m - 	status: 400 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T11:52:59.423Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T11:52:59.430Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T11:54:26.400Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T11:54:26.407Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:06:40.457Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:06:41.497Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:06:45.781Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:06:46.802Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:07:07.672Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:07:08.696Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:07:30.570Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:09:23.788Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T12:09:23.943Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:09:24.976Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:09:43.573Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:09:45.688Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:06.573Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:06.581Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:08.030Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:08.181Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:09.202Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:11.952Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:12.981Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:18.752Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:10:19.769Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:11:10.138Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:11:11.167Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:11:13.664Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:11:14.691Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:11:18.940Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:11:19.966Z - [31merror[39m - 	status: 500 ,message: secret or public key must be provided
+2023-11-22T12:12:21.356Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:12:21.366Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:12:21.507Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:16:15.474Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:16:22.663Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:16:23.689Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:17:12.680Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:17:12.687Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:17:12.792Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:17:13.817Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:17:14.447Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:17:15.478Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:18:08.597Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:18:08.606Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:18:18.489Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:18:19.536Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:18:21.945Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:18:22.971Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:20:12.397Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:20:12.408Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:20:12.651Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:20:27.650Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T12:21:21.618Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:21:21.626Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:21:22.269Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:21:22.420Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:21:22.654Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:21:23.701Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:26.305Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:27.319Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:29.529Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:47.204Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:22:47.207Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:22:47.267Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:49.838Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:50.866Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:51.595Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:22:52.607Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:26:26.375Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:26:27.392Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:26:57.644Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:26:57.647Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:27:12.632Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T12:27:22.850Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:27:23.075Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:27:23.219Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:27:24.244Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:28:59.534Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:28:59.537Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:28:59.612Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:29:00.623Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:29:02.396Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:29:03.418Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "{ id: '6556a998e006f418bad764fc', role: 'USER' }" (type Object) at path "_id" for model "User"
+2023-11-22T12:29:16.033Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T12:29:23.450Z - [31merror[39m - 	status: 500 ,message: Class constructor CustomError cannot be invoked without 'new'
+2023-11-22T12:29:24.620Z - [31merror[39m - 	status: 500 ,message: Class constructor CustomError cannot be invoked without 'new'
+2023-11-22T12:29:24.676Z - [31merror[39m - 	status: 500 ,message: Class constructor CustomError cannot be invoked without 'new'
+2023-11-22T12:29:24.749Z - [31merror[39m - 	status: 500 ,message: Class constructor CustomError cannot be invoked without 'new'
+2023-11-22T12:29:25.935Z - [31merror[39m - 	status: 500 ,message: Class constructor CustomError cannot be invoked without 'new'
+2023-11-22T12:30:00.350Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:30:00.352Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:30:31.190Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:30:31.192Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:30:32.663Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:30:32.831Z - [31merror[39m - 	status: 500 ,message: $not needs a regex or a document
+2023-11-22T12:30:34.029Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:30:34.183Z - [31merror[39m - 	status: 500 ,message: $not needs a regex or a document
+2023-11-22T12:30:37.872Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:30:38.029Z - [31merror[39m - 	status: 500 ,message: $not needs a regex or a document
+2023-11-22T12:30:45.257Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:30:45.413Z - [31merror[39m - 	status: 500 ,message: $not needs a regex or a document
+2023-11-22T12:31:46.972Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:31:47.121Z - [31merror[39m - 	status: 500 ,message: $not needs a regex or a document
+2023-11-22T12:33:05.999Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:33:06.002Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:33:31.065Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:33:31.069Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:33:41.662Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:33:45.402Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:33:50.238Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:34:17.988Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:34:17.991Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:34:18.764Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:35:06.453Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:35:09.259Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:35:10.914Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:35:11.142Z - [32minfo[39m - 	Finding users Ni
+2023-11-22T12:37:37.823Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:37:37.826Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:37:39.858Z - [32minfo[39m - 	Finding users Ni
+2023-11-22T12:37:41.553Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:38:31.512Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:38:31.516Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:38:59.037Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:38:59.040Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:38:59.794Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:39:27.131Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:39:27.134Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:39:33.597Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:39:33.600Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:39:42.999Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:39:43.002Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:39:44.844Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:40:22.723Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:40:23.384Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:40:49.601Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:40:49.604Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:40:51.840Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:41:00.609Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:41:03.573Z - [32minfo[39m - 	Finding users Nicky
+2023-11-22T12:41:15.296Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:41:29.136Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:41:58.128Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:42:50.363Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:42:57.028Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:45:05.062Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T12:45:05.065Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T12:45:21.299Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:45:25.898Z - [32minfo[39m - 	Finding users Nicky
+2023-11-22T12:45:36.440Z - [32minfo[39m - 	Finding users Nicky=
+2023-11-22T12:45:37.154Z - [32minfo[39m - 	Finding users Nicky
+2023-11-22T12:45:37.285Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:45:37.610Z - [32minfo[39m - 	Finding users Nicko
+2023-11-22T12:45:38.616Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:45:38.796Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:45:39.707Z - [32minfo[39m - 	Finding users Nich
+2023-11-22T12:45:39.984Z - [32minfo[39m - 	Finding users Nicho
+2023-11-22T12:45:50.335Z - [32minfo[39m - 	Finding users Nich
+2023-11-22T12:45:50.448Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T12:45:51.138Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T12:45:51.372Z - [32minfo[39m - 	Finding users Nicky
+2023-11-22T12:45:51.452Z - [32minfo[39m - 	Finding users Nickys
+2023-11-22T12:46:14.636Z - [32minfo[39m - 	Finding users Nickys
+2023-11-22T12:46:49.253Z - [32minfo[39m - 	Finding users Nickys
+2023-11-22T12:47:40.188Z - [32minfo[39m - 	Finding users Nickys
+2023-11-22T12:48:33.751Z - [32minfo[39m - 	Finding users Nickys
+2023-11-22T13:04:17.275Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:04:17.278Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:04:43.037Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:04:43.040Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:05:33.185Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:05:33.188Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:07:26.652Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:07:26.655Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:20:40.209Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:20:40.212Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:21:18.433Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:21:18.436Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:21:21.166Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:21:21.168Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:24:55.663Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T13:25:48.121Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T13:26:06.650Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: User does not exist
+2023-11-22T13:26:50.568Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: User does not exist
+2023-11-22T13:27:11.542Z - [32minfo[39m - 	Getting all users
+2023-11-22T13:28:00.021Z - [32minfo[39m - 	conversation not found: creating new
+2023-11-22T13:28:00.025Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading '_id')
+2023-11-22T13:28:28.443Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:28:28.450Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:29:17.256Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:29:17.261Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:29:20.438Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T13:29:41.289Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T13:30:35.824Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T13:31:40.978Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T13:32:10.156Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:32:10.162Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:32:25.376Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T13:33:10.149Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:33:10.157Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:33:14.849Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T13:33:32.532Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:33:32.535Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:33:35.445Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T13:33:35.632Z - [32minfo[39m - 	conversation not found: creating new
+2023-11-22T13:33:35.634Z - [31merror[39m - 	status: 400 ,message: Conversation does not exist
+2023-11-22T13:33:53.773Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:33:53.781Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:34:31.768Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:34:31.776Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:34:47.069Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T13:34:47.311Z - [32minfo[39m - 	conversation not found: creating new
+2023-11-22T13:34:47.315Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading 'create')
+2023-11-22T13:35:27.264Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:35:27.272Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:42:52.513Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T13:42:52.522Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T13:46:35.725Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T13:46:35.924Z - [32minfo[39m - 	Creating a new Conversation
+2023-11-22T13:47:04.170Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:01:14.798Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-22T14:02:32.945Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:02:51.911Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:02:52.423Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:03:55.988Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T14:03:55.993Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T14:08:09.817Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:08:34.341Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:08:41.524Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:09:25.439Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:16:19.437Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:16:28.550Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:17:21.745Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:19:10.661Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:19:12.781Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:19:20.697Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:19:24.690Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:19:30.124Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:20:39.826Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:20:39.839Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:21:10.582Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:21:10.625Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:21:32.078Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:21:32.086Z - [32minfo[39m - 	conversation not found: creating new
+2023-11-22T14:21:32.091Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "Nick" (type string) at path "members" for model "Conversation"
+2023-11-22T14:22:08.840Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:22:08.849Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:22:11.902Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:22:11.904Z - [32minfo[39m - 	conversation not found: creating new
+2023-11-22T14:22:11.905Z - [31merror[39m - 	status: 500 ,message: Cast to ObjectId failed for value "Nick" (type string) at path "members" for model "Conversation"
+2023-11-22T14:22:26.767Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:22:26.782Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:22:30.139Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:23:30.855Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:23:30.859Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:23:54.800Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:23:54.803Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:24:09.784Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:24:09.788Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:24:36.677Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:24:36.682Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:25:06.733Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:25:06.736Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:25:07.325Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:25:07.329Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:25:13.366Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:25:19.846Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:25:49.411Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:25:49.417Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:25:54.081Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:25:59.147Z - [32minfo[39m - 	Finding users N
+2023-11-22T14:25:59.530Z - [32minfo[39m - 	Finding users Ni
+2023-11-22T14:25:59.655Z - [32minfo[39m - 	Finding users Nic
+2023-11-22T14:26:00.136Z - [32minfo[39m - 	Finding users Nick
+2023-11-22T14:26:03.441Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:05.693Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:05.897Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:08.561Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:26:10.846Z - [32minfo[39m - 	Finding users N
+2023-11-22T14:26:11.326Z - [32minfo[39m - 	Finding users Ni
+2023-11-22T14:26:13.271Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:13.977Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:14.195Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:16.320Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:16.446Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:18.472Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:26:18.698Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:27:24.926Z - [32minfo[39m - 	Finding users Ni
+2023-11-22T14:27:24.929Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:27:27.773Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:27:30.569Z - [32minfo[39m - 	Finding users n
+2023-11-22T14:27:30.713Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:27:36.114Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:28:02.231Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:28:02.236Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:28:33.742Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:28:33.746Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:28:36.866Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:28:36.870Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:28:38.682Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:28:38.684Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:28:43.077Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:28:54.106Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:28:54.659Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:29:05.817Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:29:21.020Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:29:21.024Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:29:40.428Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:29:40.431Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:30:07.129Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:30:07.133Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:30:30.504Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:32:25.217Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T14:32:25.225Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T14:32:25.962Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:32:26.113Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:32:27.885Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation
+2023-11-22T14:32:29.073Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:32:29.077Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:33:00.848Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T14:33:00.856Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T14:33:03.910Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation for 6556a880b3abf17bdb98ae92 6556a998e006f418bad764fc
+2023-11-22T14:33:05.098Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:33:05.104Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:33:47.987Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:33:47.996Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:35:23.390Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T14:35:23.398Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T14:35:29.399Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation for 6556a880b3abf17bdb98ae92 6556a998e006f418bad764fc
+2023-11-22T14:35:29.560Z - [32minfo[39m - 	Creating a new Conversation
+2023-11-22T14:35:37.709Z - [32minfo[39m - 	Finding users ni
+2023-11-22T14:35:37.727Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:35:45.388Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation for 6556a998e006f418bad764fc 6556a68a95e7cde71d142f11
+2023-11-22T14:35:52.765Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation for 6556a998e006f418bad764fc 6556a741af76058a4c20c26c
+2023-11-22T14:35:52.936Z - [32minfo[39m - 	Creating a new Conversation
+2023-11-22T14:35:57.370Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation for 6556a998e006f418bad764fc 6556a77e507bf5cc7d3aa3f2
+2023-11-22T14:35:57.573Z - [32minfo[39m - 	Creating a new Conversation
+2023-11-22T14:36:02.707Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:36:12.217Z - [32minfo[39m - 	Finding users N
+2023-11-22T14:36:12.427Z - [32minfo[39m - 	Finding users Ni
+2023-11-22T14:36:16.620Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation for 6556a998e006f418bad764fc 6556a68a95e7cde71d142f11
+2023-11-22T14:36:20.613Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:36:45.720Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:36:55.636Z - [32minfo[39m - 	Finding users N
+2023-11-22T14:36:55.847Z - [32minfo[39m - 	Finding users Ni
+2023-11-22T14:37:00.448Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Finding Conversation for 6556a998e006f418bad764fc 6556a8d2a0733c0410fe14ff
+2023-11-22T14:37:00.610Z - [32minfo[39m - 	Creating a new Conversation
+2023-11-22T14:37:05.774Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:39:38.453Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:39:53.300Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:40:05.895Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:42:56.077Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:45:14.106Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading '_id')
+2023-11-22T14:45:25.612Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:45:32.451Z - [31merror[39m - 	status: 500 ,message: Cannot read properties of undefined (reading '_id')
+2023-11-22T14:45:35.486Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:46:15.476Z - [32minfo[39m - 	connected to mongodb
+2023-11-22T14:46:15.481Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-22T14:46:16.391Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:46:18.978Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T14:50:12.270Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T14:51:56.459Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:00:56.384Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:01:00.723Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:01:12.634Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:01:12.640Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:01:31.954Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:01:31.962Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:01:41.374Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:01:41.382Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:01:59.708Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:01:59.713Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:02:18.066Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:02:18.070Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:02:28.599Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:02:28.602Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:02:29.912Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:02:29.915Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:02:40.255Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:02:40.258Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:02:44.146Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:02:44.155Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:02:54.899Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:02:54.902Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:02.004Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:03:02.036Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:08.160Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:03:08.165Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:11.385Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:03:11.389Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:23.776Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:23.782Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:03:29.018Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:03:29.022Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:40.878Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:03:40.882Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:49.479Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:03:49.483Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:55.419Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:03:55.423Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:04:02.385Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:04:02.388Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:04:17.431Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:04:17.444Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:04:23.783Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:04:28.800Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:04:29.387Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:04:29.389Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:04:37.067Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:04:37.071Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:04:48.065Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:04:48.068Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:05:34.164Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:05:34.167Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:05:38.330Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:05:38.331Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:05:49.079Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:05:49.083Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:05:50.011Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:05:50.018Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:05:56.359Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:05:56.379Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:06:29.429Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:06:29.433Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:07:18.977Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:07:18.979Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:08:40.214Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T15:08:48.863Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:08:51.825Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:08:51.829Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:09:05.914Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:09:05.919Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:09:08.560Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:09:27.812Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:09:37.855Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:09:37.859Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:10:08.556Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:10:08.559Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:10:10.719Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:10:10.721Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:10:19.222Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:10:19.228Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:10:36.727Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:10:36.732Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:10:42.264Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:10:43.896Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:11:02.722Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:11:03.322Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:11:03.325Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:11:22.809Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:11:24.019Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:11:24.046Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:11:36.722Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:11:36.787Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:12:00.806Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:12:01.013Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:12:21.023Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:12:21.024Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:12:24.454Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:12:25.916Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:12:27.936Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:12:35.039Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:12:35.043Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:12:49.006Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:12:49.415Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:13:05.781Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:13:05.786Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:13:09.306Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:13:09.310Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:13:36.653Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:13:36.656Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:13:48.284Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:13:48.287Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:13:55.796Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:14:10.337Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:14:10.341Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:14:31.753Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:14:31.756Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:14:40.237Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:14:40.241Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:15:22.177Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:15:22.180Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:15:58.472Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:15:58.476Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:16:44.456Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:16:44.458Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:16:45.275Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:16:45.278Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:17:06.953Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:17:06.957Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:17:24.779Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:17:24.816Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:17:34.838Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:17:35.656Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:17:35.658Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:17:47.623Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:17:47.635Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:18:03.136Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:18:03.138Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:18:10.725Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:18:11.492Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:18:11.497Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:18:14.909Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:18:14.911Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:18:36.479Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:18:36.483Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:19:07.109Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:19:09.424Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:19:09.439Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:19:15.046Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:19:15.073Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:23:12.224Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:23:47.290Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:31:55.363Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:32:01.478Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:32:03.616Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:32:15.121Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:32:24.802Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:32:24.805Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:32:57.650Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:32:57.656Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:33:03.275Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:33:04.123Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:34:17.647Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:34:24.794Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:34:24.797Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:34:33.250Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:34:33.784Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:35:37.749Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:35:37.845Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:35:54.333Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:35:54.335Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:04.464Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:04.467Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:36:14.542Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:16.177Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:17.485Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:18.825Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:19.966Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:21.361Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:31.281Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:36:34.149Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:40.395Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:36:40.778Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:43.160Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:45.822Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:36:54.526Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:36:55.550Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:00.261Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:04.864Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:37:05.302Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:07.440Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:11.598Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:37:11.984Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:16.467Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:20.895Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:37:22.120Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:24.554Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:26.714Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:32.917Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:33.649Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:36.563Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:38.147Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:39.889Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:41.677Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:37:42.166Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:38:02.374Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:38:02.376Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
