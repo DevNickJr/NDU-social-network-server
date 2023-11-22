@@ -56,7 +56,7 @@ UserSchema.statics.signup = async function signup({ userName, email, password })
     user = await this.findOne({ email }).exec()
     if (user) throw new CustomError('Email Already exists', 403)
 
-    const hash = await bcrypt.hash(password, Number(process.env.SALT))
+    const hash = await bcrypt.hash(password, Number(10))
 
     const newUser = await this.create({ userName, email, password: hash })
 
@@ -73,7 +73,9 @@ UserSchema.statics.signin = async function signin({ userName, email, password })
     const match = await bcrypt.compare(password, user.password)
     if (!match) throw new CustomError('Username or Password Incorrect')
 
-    const token = await createToken({ id: user.id, role: user.role })
+    console.log("token creation", user)
+
+    const token = await createToken({ id: user._id, role: user.role })
 
     return { user, token }
 }

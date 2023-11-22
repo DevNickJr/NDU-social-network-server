@@ -22,7 +22,7 @@ class MessageController {
     static async getMessages(req, res, next) {
         try {
             logger.log('info', `User ${req.user._id} Getting all Messages`)
-            const response = await MessageService.getAll(req.params.conversationId)
+            const response = await MessageService.getMessages(req.params.conversationId)
             if (!response) throw new CustomError('No Message found', 404)
             return res.status(200).json(response)
         } catch (error) {

@@ -63,6 +63,26 @@ class UserController {
             return next(error)
         }
     }
+
+    static async findUser(req, res, next) {
+        try {
+            logger.log('info', `Finding users ${req.query.search}`)
+            const response = await UserService.findUser({}, 
+                { 
+                    $or: [
+                       { userName: {$regex : new RegExp(req.query.search, "i")} },
+                       { email: {$regex : new RegExp(req.query.search, "i")} },
+                    ],
+                    _id: {$not: {$eq: req.user._id}}
+                }
+            )
+            if (!response) return res.status(404).json({ message: 'No user found' })
+            return res.status(200).json(response)
+        } catch (error) {
+            return next(error)
+        }
+    }
+
 }
 
 module.exports = UserController

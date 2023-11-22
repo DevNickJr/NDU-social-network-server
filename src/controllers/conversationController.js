@@ -11,7 +11,7 @@ class ConversationController {
         try {
             logger.log('info', `Creating a new Conversation`)
             const response = await ConversationService.create({ members })
-            if (!response) throw new CustomError('Conversation Failed')
+            if (!response) throw new CustomError('Create Conversation Failed')
             return res.status(200).json(response)
         } catch (error) {
             return next(error)
@@ -28,6 +28,44 @@ class ConversationController {
             return next(error)
         }
     }
+ 
+    static async findConversation(req, res, next) {
+        const { members } = req.body
+
+        if (!members) return res.status(400).json({ message: 'Send all required fields [members]' })
+
+        try {
+            logger.log('info', `User ${req.user._id} Finding Conversation for ${members[0]} ${members[1]}`)
+            const response = await ConversationService.findConversation(members[0], members[1])
+            if (!response) throw new CustomError('No Conversation found', 404)
+            return res.status(200).json(response)
+        } catch (error) {
+            return next(error)
+        }
+    }
+
+    static async getConversation(req, res, next) {
+        try {
+            const { members } = req.body
+
+            if (!members) return res.status(400).json({ message: 'Send all required fields [members]' })
+    
+            logger.log('info', `User ${req.user._id} Finding Conversation for ${members[0]} ${members[1]}`)
+
+            const response = await ConversationService.findConversation(members[0], members[1])
+
+            if (response) {
+                return res.status(200).json(response)
+            } else {
+                return await ConversationController.create(req, res, next)
+            }
+        } catch (error) {
+            logger.log('info',"conversation not found: creating new")
+            next(error)
+        }
+    }
+
+
 
     // static async getConversations(req, res, next) {
     //     try {

@@ -13,6 +13,34 @@ class UserService extends CRUD {
         if (!data) throw new CustomError(`${this.serviceName} does not exist`)
         return data
     }
+
+    async findUser({limit=10, sort="createdAt", page=1} = {}, query={}, populate='') {
+        const lmt = limit > 0 && limit <50 ? Number(limit) : 20
+        const srt = sort || { createdAt: -1 }
+        const pge = page || 1
+        const skp = Number(pge * lmt -  lmt) || 0
+        const data = await Promise.all([
+            this.Model.find(query).sort(srt).skip(skp).limit(lmt).lean().populate(populate),
+            this.Model.find(query).countDocuments()
+        ])
+        // console.log({data: data[0]})
+        if (pge * lmt < data[1]) {
+            return {
+            page: pge,
+            next: pge + 1,
+            limit: lmt,
+            data: data[0],
+            total: data[1],
+            };
+        }
+        return {
+            page: pge,
+            next: null,
+            limit: lmt,
+            data: data[0],
+            total: data[1],
+        };
+    }
     // async getAllUsers() {
 
     // }

@@ -1,7 +1,11 @@
 const { Router } = require('express')
 const MessageController = require('../controllers/messageController')
+const authenticate = require('../middlewares/authenticate')
 
 const router = Router()
+
+router.use(authenticate)
+
 
 router.post('/', MessageController.create)
 
