@@ -1083,3 +1083,373 @@
 2023-11-22T15:37:42.166Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
 2023-11-22T15:38:02.374Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
 2023-11-22T15:38:02.376Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:40:25.291Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:41:59.843Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:43:20.333Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:43:22.110Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T15:43:23.116Z - [31merror[39m - 	status: 401 ,message: Unauthorized access: You're Not Authenticated
+2023-11-22T15:43:37.114Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:43:45.706Z - [31merror[39m - 	status: 400 ,message: Username or Password Incorrect
+2023-11-22T15:44:02.176Z - [32minfo[39m - 	user 6556a68a95e7cde71d142f11 logged in successfully
+2023-11-22T15:44:03.932Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:44:16.390Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:44:35.357Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:44:44.506Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:44:48.784Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:44:55.188Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:44:56.673Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:44:58.670Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:45:07.762Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:45:15.054Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:45:16.738Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:45:16.740Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:45:18.670Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:45:25.603Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:45:27.070Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:45:27.097Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:45:29.357Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:45:39.433Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:45:42.805Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:45:42.837Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:45:44.382Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:45:56.033Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:45:59.508Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:46:05.034Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:46:10.065Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:46:15.719Z - [32minfo[39m - 	Creating a new Message
+2023-11-22T15:46:16.409Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:46:40.297Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:46:41.850Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-22T15:46:44.891Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:46:44.893Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:46:46.571Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T15:47:48.676Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-22T15:47:48.679Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:47:52.111Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-22T15:47:52.241Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-22T16:31:56.311Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:31:56.315Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:31:56.320Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:31:56.325Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:31:56.332Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:31:56.334Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:31:56.336Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:31:56.337Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:52:56.266Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:52:56.310Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:52:56.325Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T16:52:56.334Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T21:56:21.634Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T21:56:21.636Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T21:56:21.639Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-22T21:56:21.640Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-23T09:35:33.038Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T09:35:40.998Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T09:52:41.250Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T09:52:41.260Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T09:52:48.192Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T09:52:58.235Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:05:29.900Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T10:05:29.903Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T10:05:47.249Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-23T10:05:47.459Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:05:59.877Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T10:06:05.764Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:06:05.766Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T10:06:58.781Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T10:06:58.789Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:31:13.122Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-23T10:31:13.143Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-23T10:37:35.772Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T10:37:35.778Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:37:43.413Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:37:43.416Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T10:37:51.982Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T10:37:51.985Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:38:34.289Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T10:38:34.293Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:08:17.752Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-23T11:08:17.797Z - [31merror[39m - 	status: 500 ,message: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2023-11-23T11:13:58.540Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T11:13:58.543Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T11:24:56.667Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T11:24:56.669Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T11:28:02.912Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T11:28:02.915Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T11:28:06.131Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:28:10.682Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:28:41.054Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:28:41.411Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:28:41.526Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:28:48.660Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:28:48.662Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:29:20.666Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:29:20.675Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:30:25.009Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:30:30.526Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:30:30.529Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:30:36.351Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:31:13.112Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:32:10.038Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:32:10.116Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:32:20.780Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:32:20.782Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:34:10.042Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:34:13.641Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:34:13.644Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:34:18.981Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:34:18.988Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:34:39.030Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:34:44.862Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:34:44.868Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:34:51.735Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:35:47.850Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T11:35:47.853Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T11:35:51.737Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T11:35:51.740Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T11:35:54.603Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:35:54.606Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:36:00.355Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:36:04.313Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:36:04.315Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:36:42.034Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:36:43.031Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:36:43.040Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:36:51.735Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:37:23.883Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T11:37:23.885Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T11:38:38.045Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:38:40.598Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:38:40.603Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:38:43.584Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:38:43.588Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:38:48.556Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:39:05.984Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:39:05.987Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:39:08.890Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:41:55.996Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:41:56.050Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:42:53.939Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:42:53.953Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:43:09.448Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:43:21.884Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:55:42.602Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T11:55:42.612Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T11:55:55.493Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:56:03.944Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:56:22.968Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:56:22.970Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:56:31.167Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:56:52.870Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:56:52.872Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:57:07.391Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:57:34.618Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:57:34.683Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:57:38.571Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:58:42.045Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:58:42.355Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:58:52.079Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T11:59:16.035Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:59:18.543Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T11:59:18.548Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T11:59:27.737Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:00:24.027Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:00:27.177Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:00:27.179Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:00:29.090Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:00:29.091Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:00:39.349Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:00:54.818Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:01:20.676Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:01:20.709Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:01:40.048Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:01:40.049Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:01:51.201Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:02:08.778Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:02:12.821Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:02:54.456Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:02:54.461Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:02:59.276Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:03:02.086Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:03:08.161Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:03:17.265Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:05:15.035Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:06:32.052Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:06:33.944Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:06:33.948Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:06:36.943Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:06:40.881Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:06:47.554Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:06:56.298Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:08:23.067Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:08:23.305Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:08:29.966Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:08:32.860Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:08:34.694Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:08:38.949Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:08:44.271Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:10:34.032Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:10:35.363Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:10:35.364Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:10:37.895Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:11:10.604Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:11:11.928Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:11:18.672Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:11:40.228Z - [32minfo[39m - 	connected to mongodb
+2023-11-23T12:11:40.231Z - [32minfo[39m - 	Server Listening on port http://localhost:4500
+2023-11-23T12:12:40.215Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-23T12:12:40.524Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:12:44.254Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:12:46.351Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:12:54.286Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:13:46.969Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:13:46.971Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:13:49.923Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:13:51.693Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:14:00.219Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:14:04.972Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:14:30.035Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:14:30.564Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:14:30.566Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:14:44.226Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:14:44.227Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:15:09.879Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:15:09.948Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:15:31.373Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-23T12:15:31.555Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:16:00.611Z - [32minfo[39m - 	user 6556a68a95e7cde71d142f11 logged in successfully
+2023-11-23T12:16:00.808Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:16:02.855Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:16:13.253Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:16:29.063Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:16:34.315Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:16:34.325Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:16:38.106Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:16:38.109Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:16:47.854Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:16:54.607Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:16:56.487Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:17:03.600Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:17:12.116Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:17:46.793Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:17:46.795Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:17:46.796Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:17:48.206Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:17:48.944Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:17:48.946Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:17:49.316Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:17:49.317Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:18:14.446Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:18:14.448Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:18:14.449Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:18:14.495Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:18:23.306Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:18:35.595Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:18:35.618Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:19:00.275Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:19:00.277Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:21:32.781Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:21:32.820Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:22:59.536Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:22:59.538Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:23:39.739Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:23:39.741Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:23:43.707Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:23:43.710Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:23:51.774Z - [32minfo[39m - 	user 6556a998e006f418bad764fc logged in successfully
+2023-11-23T12:23:51.959Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:23:57.743Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:24:07.882Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:24:07.908Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:24:09.721Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:24:14.177Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:24:18.108Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:24:18.110Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:24:22.620Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:24:22.624Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:24:22.625Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:24:22.626Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:24:23.392Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:24:23.393Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:24:23.395Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:24:23.399Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:24:27.531Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:24:28.888Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:24:35.736Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:25:02.513Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:25:09.714Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:25:10.984Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:25:13.567Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:25:13.629Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:25:28.825Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:25:28.827Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:25:28.833Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:25:28.870Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:25:31.429Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:25:31.431Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:25:48.029Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:25:48.032Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:25:48.192Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:25:48.194Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:25:52.043Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:25:55.550Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:26:01.053Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:26:10.234Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:26:20.784Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:26:20.797Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:26:55.402Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:26:55.404Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:26:55.405Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:26:55.407Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:26:58.723Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:26:59.423Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:26:59.424Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:27:01.534Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:27:04.307Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:27:41.041Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:27:41.074Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:28:16.765Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:28:16.767Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:28:16.768Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:28:16.775Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:28:19.516Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:28:21.062Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:28:21.072Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:28:26.422Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:28:26.425Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:28:34.115Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:28:41.550Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:28:41.552Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:29:14.024Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:29:14.026Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:29:14.763Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:29:14.765Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:29:14.767Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:29:14.769Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:29:20.161Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:29:22.310Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:29:23.553Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:29:34.285Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:29:45.153Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:29:45.155Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:29:49.715Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:29:57.646Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:30:14.700Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:30:33.138Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:30:33.187Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:30:33.188Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:30:33.239Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:30:34.105Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:30:36.658Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:30:40.357Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations
+2023-11-23T12:30:40.358Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:30:44.251Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:30:49.858Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:31:00.596Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:31:10.856Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:31:20.377Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:31:35.819Z - [32minfo[39m - 	Creating a new Message
+2023-11-23T12:31:46.057Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Conversations
+2023-11-23T12:31:46.059Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Messages
+2023-11-23T12:31:46.060Z - [32minfo[39m - 	User 6556a68a95e7cde71d142f11 Getting all Messages
+2023-11-23T12:31:46.060Z - [32minfo[39m - 	User 6556a998e006f418bad764fc Getting all Conversations

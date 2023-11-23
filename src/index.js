@@ -57,9 +57,19 @@ app.on('error', (error) => {
 io.on('connection', (socket) => {
     console.log('a user connected');
 
-    socket.on("chat message", (message) => {
-        console.log({message})
-        io.emit('chat message', message);
+    socket.on("setup", (userId) => {
+        console.log("joining user", userId)
+        socket.join(userId)
+    })
+
+    socket.on("join chat", (roomId) => {
+        console.log("joining chat", roomId)
+        socket.join(roomId)
+    })
+
+    socket.on("new message", (message) => {
+        console.log("a new message", {message})
+        io.to(message.conversationId).emit("new message", message);
     })
      
     socket.on('disconnect', () => {
